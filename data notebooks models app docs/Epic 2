@@ -1,0 +1,21 @@
+# Epic 2: Visualizing and Analysing the Data
+
+## Story 1: Import Required Libraries
+
+The required Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and XGBoost are imported to support data analysis, visualization, and machine learning model development.
+
+## Story 2: Dataset Exploration
+
+The dataset is loaded using the Pandas library. The structure of the dataset, feature names, target variable, data types, and dimensions are examined.
+
+## Story 3: Univariate Analysis
+
+Individual features are analyzed using histograms, box plots, and count plots to understand their distribution and identify anomalies.
+
+## Story 4: Multivariate Analysis
+
+Relationships between multiple variables are explored using correlation matrices, heatmaps, pair plots, and scatter plots.
+
+## Story 5: Statistical Analysis
+
+Descriptive statistics such as mean, median, standard deviation, minimum, and maximum values are calculated to summarize the dataset.

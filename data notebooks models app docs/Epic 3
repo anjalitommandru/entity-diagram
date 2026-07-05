@@ -1,0 +1,21 @@
+# Epic 3: Data Pre-Processing
+
+## Story 1: Missing Value Handling
+
+Identify and handle missing values to improve data quality and ensure consistency.
+
+## Story 2: Outlier Detection
+
+Detect and treat outliers using statistical techniques to reduce their impact on model performance.
+
+## Story 3: Encoding
+
+Convert categorical variables into numerical values using suitable encoding techniques.
+
+## Story 4: Train-Test Split
+
+Split the dataset into training and testing sets for model development and evaluation.
+
+## Story 5: Feature Scaling
+
+Apply feature scaling to normalize numerical attributes and improve machine learning model performance.
