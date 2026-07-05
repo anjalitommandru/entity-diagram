@@ -1,0 +1,9 @@
+# Epic 1: Data Collection
+
+## Story 1: Dataset Collection
+
+The dataset required for the Rising Water Monitoring and Flood Prediction System contains historical weather and environmental parameters such as rainfall, humidity, temperature, cloud cover, river water level, and flood occurrence. This dataset will be collected from a reliable public source such as Kaggle or provided by the project mentor.
+
+## Story 2: Data Loading
+
+The collected dataset will be stored in CSV format and loaded into the Python environment using the Pandas library. The dataset will then be inspected to understand the available features and target variable before preprocessing and model training.
